@@ -45,9 +45,10 @@ input {
   font-size: 1rem;
   color: white;
   margin-bottom: 0.75rem;
-  background-color: rgba(0, 0, 0, 0);
+  background-color: #00000000;
   border-color: #ffffff;
   border-radius: 10px;
+
 }
 
 .button-wrapper {
@@ -95,7 +96,6 @@ button:hover {
   background-color: rgba(3, 3, 3, 0.623); /* Semi-transparent color */
   z-index: 2;
 }
-
 .container {
   z-index: 3;
-}/*# sourceMappingURL=App.css.map */
+}
